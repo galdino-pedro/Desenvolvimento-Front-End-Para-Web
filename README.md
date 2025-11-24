@@ -1,3 +1,4 @@
+PROJETO FINAL
 Objetivo do projeto
 Criar um sistema web simples para gerenciar alunos: permitir cadastrar, visualizar, editar e remover registros de alunos de maneira intuitiva. O projeto serve como exercício prático de front-end (HTML, CSS e JavaScript) e utiliza armazenamento local do navegador (localStorage) para persistência dos dados durante testes.
 
